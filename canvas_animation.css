@@ -1,0 +1,19 @@
+ #product-fade {
+    overflow: hidden;
+    position: absolute;
+    z-index: 10;
+    background: url(https://www.ditto.com/assets/tryon/ditto_white_gradient-4b01e3b6cc50a278d0d9b46dc35af2d8.png) center no-repeat;
+    -ms-touch-action: none;
+    left: 50%;
+    top: 0;
+    margin-left: -510px;
+    width: 1020px;
+    height: 100%;
+}
+.w-tryon-cursor {
+    cursor: url(https://www.ditto.com/assets/cursor_double_arrow-3d9fb3d875a508d6420ca8d565dd13a4.cur) 15 10,move;
+}
+.imgList{
+	display:none;
+}
+ canvas { border: 1px solid pink; }
